@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Subcription_Management_System</RootNamespace>
+    <RootNamespace>Subscription_Management_System</RootNamespace>
   </PropertyGroup>
 
 </Project>

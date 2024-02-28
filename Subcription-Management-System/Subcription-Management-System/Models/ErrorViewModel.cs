@@ -1,4 +1,4 @@
-namespace Subcription_Management_System.Models
+namespace Subscription_Management_System.Models
 {
     public class ErrorViewModel
     {

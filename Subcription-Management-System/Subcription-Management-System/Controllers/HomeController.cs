@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using Subcription_Management_System.Models;
+using Subscription_Management_System.Models;
 using System.Diagnostics;
 
-namespace Subcription_Management_System.Controllers
+namespace Subscription_Management_System.Controllers
 {
     public class HomeController : Controller
     {

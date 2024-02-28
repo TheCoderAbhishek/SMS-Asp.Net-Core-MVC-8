@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\Github\\SMS-Asp.Net-Core-MVC-8\\Subcription-Management-System\\Subcription-Management-System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Subcription-Management-System.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Subcription-Management-System.bundle.scp.css"
+      "Id": "D:\\Github\\SMS-Asp.Net-Core-MVC-8\\Subcription-Management-System\\Subcription-Management-System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Subscription-Management-System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Subscription-Management-System.bundle.scp.css"
     },
     {
       "Id": "D:\\Github\\SMS-Asp.Net-Core-MVC-8\\Subcription-Management-System\\Subcription-Management-System\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Subcription-Management-System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Subscription-Management-System.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Subcription-Management-System.props",
-      "PackagePath": "build\\Subcription-Management-System.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Subscription-Management-System.props",
+      "PackagePath": "build\\Subscription-Management-System.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Subcription-Management-System.props",
-      "PackagePath": "buildMultiTargeting\\Subcription-Management-System.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Subscription-Management-System.props",
+      "PackagePath": "buildMultiTargeting\\Subscription-Management-System.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Subcription-Management-System.props",
-      "PackagePath": "buildTransitive\\Subcription-Management-System.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Subscription-Management-System.props",
+      "PackagePath": "buildTransitive\\Subscription-Management-System.props"
     }
   ],
   "ElementsToRemove": []
