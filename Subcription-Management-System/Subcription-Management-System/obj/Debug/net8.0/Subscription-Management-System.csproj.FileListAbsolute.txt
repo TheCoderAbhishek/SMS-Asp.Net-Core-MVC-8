@@ -29,3 +29,10 @@ D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Manag
 D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\obj\Debug\net8.0\Subscription-Management-System.pdb
 D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\obj\Debug\net8.0\Subscription-Management-System.genruntimeconfig.cache
 D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\obj\Debug\net8.0\ref\Subscription-Management-System.dll
+D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\bin\Debug\net8.0\nlog.config
+D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\bin\Debug\net8.0\NLog.dll
+D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\bin\Debug\net8.0\NLog.Web.dll
+D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\obj\Debug\net8.0\Subscription-Management-System.csproj.AssemblyReference.cache
+D:\Github\SMS-Asp.Net-Core-MVC-8\Subcription-Management-System\Subcription-Management-System\obj\Debug\net8.0\Subscrip.0EB13C82.Up2Date

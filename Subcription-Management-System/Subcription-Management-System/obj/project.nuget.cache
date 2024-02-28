@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "7aw4tA9a5Gbsaf3So3wwy5wKy+n92rR+kM7QI/8/Iyq5JAXRdMZ6OD7JFC8b710Fw7nPhsw18Ma0kNPXkEtwtg==",
+  "dgSpecHash": "b58BUc3mWvikIYxG7TrOX2kZCguFTpyrmZ0XR1DofqBGz2KSPpqfu8t5N+Fau4ndkbu16WkD/pRxLq7R6ZZ6tg==",
   "success": true,
   "projectFilePath": "D:\\Github\\SMS-Asp.Net-Core-MVC-8\\Subcription-Management-System\\Subcription-Management-System\\Subscription-Management-System.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\nlog.extensions.logging\\5.3.8\\nlog.extensions.logging.5.3.8.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\nlog.web\\5.3.8\\nlog.web.5.3.8.nupkg.sha512",
+    "C:\\Users\\AbhishekHPatil\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.8\\nlog.web.aspnetcore.5.3.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NLog.Web 5.3.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NLog.Web",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
